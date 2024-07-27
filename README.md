@@ -1,3 +1,5 @@
+mysql-connector: https://dev.mysql.com/downloads/connector/j/?os=26
+
 ```
 $ liquibase --classpath=./mysql-connector-j-9.0.0.jar \
           --url=jdbc:mysql://0.0.0.0:3306/db \
