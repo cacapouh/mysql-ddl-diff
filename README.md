@@ -1,4 +1,9 @@
 mysql-connector: https://dev.mysql.com/downloads/connector/j/?os=26
+liquidbase: https://docs.liquibase.com/start/install/liquibase-macos.html
+
+```
+brew install liquibase
+```
 
 ```
 $ liquibase --classpath=./mysql-connector-j-9.0.0.jar \
